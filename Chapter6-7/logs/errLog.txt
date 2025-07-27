@@ -1,0 +1,1 @@
+2025-07-23	18:34:08	2516d619-b96c-4a70-8098-66d372779ce2	Error: Not allowed by CORS
